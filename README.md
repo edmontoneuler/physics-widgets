@@ -12,3 +12,6 @@ To address this perceived gap in the standard pedagogy, this suite of scripts ge
 
 ## Simple Harmonic Motion
 ![](https://github.com/edmontoneuler/physics-widgets/blob/master/shm_screenshot.png)
+
+## Landauer Thermoelectric Moment Display
+![](https://github.com/edmontoneuler/physics-widgets/blob/master/fi_display_screenshot.png)
