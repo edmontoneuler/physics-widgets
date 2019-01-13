@@ -9,3 +9,6 @@ To address this perceived gap in the standard pedagogy, this suite of scripts ge
 
 ## 3D Bandstructure 
 ![](https://github.com/edmontoneuler/physics-widgets/blob/master/3d_band_screenshot.png)
+
+## Simple Harmonic Motion
+![](https://github.com/edmonteuler/physics-widgets/blob/master/shm_screenshot.png)
