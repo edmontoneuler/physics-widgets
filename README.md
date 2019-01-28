@@ -17,4 +17,4 @@ To address this perceived gap in the standard pedagogy, this suite of scripts ge
 ![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/fi_display_screenshot.png)
 
 ## Kane Model (Three bands)
-![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/kane_screenshot.png)
+![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/kane_screenshot.PNG)
