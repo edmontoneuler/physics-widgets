@@ -48,7 +48,7 @@ v2, = axs.plot(k_vec, valence_two(k_vec, gap_init, P_init), 'g', lw=2)
 taylor_c1,  = axs.plot(k_vec, taylor_conduction_one(k_vec, gap_init, P_init), 'r--', lw=2)
 taylor_v2,  = axs.plot(k_vec, taylor_valence_two(k_vec, gap_init, P_init), 'g--', lw=2)
 
-P_loc = plt.axes([0.25, 0.00, 0.50, 0.02])
+P_loc = plt.axes([0.25, 0.01, 0.50, 0.02])
 P_amp = Slider(P_loc, 'P (arbitrary units)', 0, 1, valinit = P_init)
 
 gap_loc = plt.axes([0.25, 0.04, 0.50, 0.02])
