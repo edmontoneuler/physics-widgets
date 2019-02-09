@@ -67,9 +67,9 @@ ax = fig.add_subplot(111, projection='3d')
 cm = plt.get_cmap("jet")
 
 conduction_loc = plt.axes([0.25, 0.05, 0.50, 0.02])
-conduction_amp = Slider(conduction_loc, 'Upper bound (eV)', eposts[0], eposts[-1], valinit=0.20)
+conduction_amp = Slider(conduction_loc, 'Upper bound (eV)', eposts[0], eposts[-1], valinit=0.10)
 valence_loc = plt.axes([0.25, 0.00, 0.50, 0.02])
-valence_amp = Slider(valence_loc, 'Lower bound (eV)', eposts[0], eposts[-1], valinit=-0.05)
+valence_amp = Slider(valence_loc, 'Lower bound (eV)', eposts[0], eposts[-1], valinit=-0.01)
 
 def lower_bin_index(energy):
     for k in range(len(eposts)):
