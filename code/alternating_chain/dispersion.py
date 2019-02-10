@@ -31,7 +31,7 @@ k1_loc = plt.axes([0.25, 0.01, 0.50, 0.02])
 k1_amp = Slider(k1_loc, 'k1 ', 0.2, 1, valinit = k1_init)
 
 k2_loc = plt.axes([0.25, 0.04, 0.50, 0.02])
-k2_amp = Slider(k2_loc,'k2', 1,2 , valinit = k2_init)
+k2_amp = Slider(k2_loc,'k2', 0.2,1 , valinit = k2_init)
 
 axs.set_xlabel('k')
 axs.set_ylabel('Omega')
