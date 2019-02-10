@@ -18,3 +18,12 @@ To address this perceived gap in the standard pedagogy, this suite of scripts ge
 
 ## Kane Model (Three bands)
 ![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/kane_screenshot.PNG)
+
+## Hystersis Model 
+![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/hysteresis_screenshot.PNG)
+
+## Alternating Chain
+![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/alternating_chain_screenshot.PNG)
+
+## Landau Second Order Phase Transition
+![](https://github.com/edmontoneuler/physics-widgets/blob/master/images/para_ferro_screenshot.PNG)
